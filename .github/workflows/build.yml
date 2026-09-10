@@ -28,4 +28,3 @@ uses: actions/upload-artifact@v4
 with:
 name: DrStudio-Windows-Installer
 path: release/*.exe
-```
